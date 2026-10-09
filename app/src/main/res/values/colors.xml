@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="primary_variant">#6366F1</color>
+    
+    <color name="secondary">#06B6D4</color>
+    <color name="secondary_dark">#0891B2</color>
+    <color name="secondary_light">#ECFEFF</color>
+    
+    <!-- Neutrals -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="card_stroke">#E2E8F0</color>
+    
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_inverse">#FFFFFF</color>
+    <color name="divider">#E2E8F0</color>
+    
+    <!-- Status / Attendance Colors -->
+    <!-- Safe: >= 75% -->
+    <color name="status_safe">#10B981</color>
+    <color name="status_safe_bg">#D1FAE5</color>
+    <color name="status_safe_text">#065F46</color>
+    
+    <!-- Warning: 70% - 74.99% -->
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_warning_bg">#FEF3C7</color>
+    <color name="status_warning_text">#92400E</color>
+    
+    <!-- Critical: < 70% -->
+    <color name="status_critical">#EF4444</color>
+    <color name="status_critical_bg">#FEE2E2</color>
+    <color name="status_critical_text">#991B1B</color>
+    
+    <!-- On Duty (OD) -->
+    <color name="status_on_duty">#3B82F6</color>
+    <color name="status_on_duty_bg">#DBEAFE</color>
+    <color name="status_on_duty_text">#1E40AF</color>
+    
+    <!-- Unmarked / Upcoming -->
+    <color name="status_unmarked">#8B5CF6</color>
+    <color name="status_unmarked_bg">#EDE9FE</color>
+    <color name="status_unmarked_text">#5B21B6</color>
+</resources>

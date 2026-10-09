@@ -1,0 +1,4 @@
+#Wed Oct 07 21:16:12 IST 2026
+base.0=C\:\\Users\\Myself\\Desktop\\Attendance Manager\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

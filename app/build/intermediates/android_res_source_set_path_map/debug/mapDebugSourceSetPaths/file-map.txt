@@ -1,0 +1,8 @@
+com.bharath.attendancemanager.app-pngs-0 C:\Users\Myself\Desktop\Attendance Manager\app\build\generated\res\pngs\debug
+com.bharath.attendancemanager.app-updated_navigation_xml-1 C:\Users\Myself\Desktop\Attendance Manager\app\build\generated\updated_navigation_xml\debug
+com.bharath.attendancemanager.app-packageDebugResources-2 C:\Users\Myself\Desktop\Attendance Manager\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.bharath.attendancemanager.app-packageDebugResources-3 C:\Users\Myself\Desktop\Attendance Manager\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.bharath.attendancemanager.app-debug-4 C:\Users\Myself\Desktop\Attendance Manager\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.bharath.attendancemanager.app-debug-5 C:\Users\Myself\Desktop\Attendance Manager\app\src\debug\res
+com.bharath.attendancemanager.app-main-6 C:\Users\Myself\Desktop\Attendance Manager\app\src\main\res
+gradleHome-0 C:\Users\Myself\.gradle

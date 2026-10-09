@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharath.attendancemanager.app-mergeReleaseResources-32:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Myself\\.gradle\\caches\\9.6.0\\transforms\\81e8d404da4c82557e749310fd8ed328\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

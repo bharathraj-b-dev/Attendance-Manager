@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AttendanceManager</string>
+    <string name="app_tagline">Smart Attendance Management</string>
+    <string name="connect_digicampus">Connect DigiCampus</string>
+    <string name="welcome_description">Seamlessly sync your attendance from DigiCampus, predict bunk limits, and keep your attendance above 75%.</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="nav_import">DigiCampus</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="your_attendance">Overall Attendance</string>
+    <string name="present_label">Present</string>
+    <string name="absent_label">Absent</string>
+    <string name="marked_label">Marked</string>
+    <string name="upcoming_label">Upcoming</string>
+    <string name="subjects_title">Your Subjects</string>
+    <string name="view_all">View All</string>
+    <string name="import_attendance">Import Attendance</string>
+    <string name="sync_with_digicampus">Sync DigiCampus</string>
+    
+    <!-- Subject Card & Details -->
+    <string name="view_details">View Details</string>
+    <string name="calculate">Calculate</string>
+    <string name="can_i_bunk">Can I Bunk?</string>
+    <string name="marked_attendance_title">Marked Attendance Records</string>
+    <string name="upcoming_sessions_title">Upcoming / Unmarked Sessions</string>
+    
+    <!-- Status -->
+    <string name="status_safe">Safe</string>
+    <string name="status_warning">Warning</string>
+    <string name="status_critical">Critical</string>
+    
+    <!-- Calculator -->
+    <string name="what_if_title">What-If Calculator</string>
+    <string name="attend_option">Attend Classes</string>
+    <string name="miss_option">Miss Classes</string>
+    <string name="classes_count">Number of classes</string>
+    <string name="projected_attendance">Projected Attendance</string>
+    
+    <!-- Import Steps -->
+    <string name="import_instructions_title">Import Instructions</string>
+    <string name="step_1">1. Log in to DigiCampus inside this screen</string>
+    <string name="step_2">2. Navigate to your Attendance page</string>
+    <string name="step_3">3. Tap the "Import Attendance" button below</string>
+    <string name="import_now">Import Attendance Now</string>
+    
+    <!-- Settings -->
+    <string name="target_percentage_title">Attendance Target</string>
+    <string name="notifications_title">Class Reminders</string>
+    <string name="notifications_desc">Get notified before your upcoming classes and mark what happened.</string>
+    <string name="clear_data">Reset All Attendance Data</string>
+    <string name="relogin_digicampus">Reload DigiCampus Login</string>
+</resources>

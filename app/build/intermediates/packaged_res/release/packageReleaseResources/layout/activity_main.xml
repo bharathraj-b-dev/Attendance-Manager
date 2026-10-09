@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <!-- ======================================================== -->
+    <!-- WELCOME / FIRST LAUNCH SCREEN                           -->
+    <!-- ======================================================== -->
+    <LinearLayout
+        android:id="@+id/layoutWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp"
+        android:visibility="gone"
+        android:background="@color/surface">
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="88dp"
+            android:src="@drawable/ic_nav_home"
+            app:tint="@color/primary"
+            android:contentDescription="Logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:textColor="@color/text_primary"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:text="@string/app_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/primary"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="@string/app_tagline" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:lineSpacingExtra="4dp"
+            android:text="@string/welcome_description" />
+
+        <!-- Feature bullet cards -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:orientation="vertical"
+            android:background="@drawable/bg_card_white"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:text="✨ Direct DigiCampus Sync with session persistence" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:text="🎯 Mathematically exact 'Can I Bunk?' calculator" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:text="📅 Tracks marked &amp; upcoming class sessions" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/text_primary"
+                android:textSize="14sp"
+                android:text="🔒 100% Local: No server, no passwords saved" />
+        </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnConnectDigiCampus"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/connect_digicampus"
+            android:textColor="@color/text_inverse"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:backgroundTint="@color/primary"
+            app:cornerRadius="16dp" />
+    </LinearLayout>
+
+    <!-- ======================================================== -->
+    <!-- MAIN APP SCREEN (Dashboard / Subjects / Import / Settings)-->
+    <!-- ======================================================== -->
+    <LinearLayout
+        android:id="@+id/layoutMainApp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Frame container holding the 4 view screens -->
+        <FrameLayout
+            android:id="@+id/viewContainer"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <!-- Include Dashboard View -->
+            <include
+                android:id="@+id/viewDashboard"
+                layout="@layout/layout_dashboard" />
+
+            <!-- Include Subjects View -->
+            <include
+                android:id="@+id/viewSubjects"
+                layout="@layout/layout_subjects"
+                android:visibility="gone" />
+
+            <!-- Include Import View -->
+            <include
+                android:id="@+id/viewImport"
+                layout="@layout/layout_import"
+                android:visibility="gone" />
+
+            <!-- Include Settings View -->
+            <include
+                android:id="@+id/viewSettings"
+                layout="@layout/layout_settings"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <!-- Bottom Navigation Bar -->
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNavigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/surface"
+            app:elevation="8dp"
+            app:itemIconTint="@color/primary"
+            app:itemTextColor="@color/text_primary"
+            app:labelVisibilityMode="labeled"
+            app:menu="@menu/bottom_nav_menu" />
+    </LinearLayout>
+</RelativeLayout>

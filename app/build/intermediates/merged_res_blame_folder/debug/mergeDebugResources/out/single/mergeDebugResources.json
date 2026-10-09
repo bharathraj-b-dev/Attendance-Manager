@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_layout_settings.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\layout_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_badge_on_duty.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_badge_on_duty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_card_hero.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_card_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_activity_calculator.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\activity_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_badge_unmarked.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_badge_unmarked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_nav_settings.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_nav_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_layout_dashboard.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\layout_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_item_subject_card.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\item_subject_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_layout_import.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\layout_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_item_session_record.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\item_session_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_nav_import.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_nav_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_item_subjects_footer.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\item_subjects_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bharath.attendancemanager.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bharath.attendancemanager.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_badge_warning.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_badge_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_nav_subjects.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_nav_subjects.xml"
+    },
+    {
+        "merged": "com.bharath.attendancemanager.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bharath.attendancemanager.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_calculate.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_badge_critical.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_badge_critical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_card_white.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_card_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bharath.attendancemanager.app-debug-34:/drawable_app_icon.png.flat",
+        "source": "com.bharath.attendancemanager.app-main-36:/drawable/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_bg_badge_safe.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\bg_badge_safe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_nav_home.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_nav_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_layout_subjects.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\layout_subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\layout_activity_subject_details.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\layout\\activity_subject_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-debug-34:\\drawable_ic_alert_circle.xml.flat",
+        "source": "C:\\Users\\Myself\\.gradle\\daemon\\9.6.0\\com.bharath.attendancemanager.app-main-36:\\drawable\\ic_alert_circle.xml"
+    }
+]

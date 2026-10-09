@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-07T09:54:41.048Z" hostname="BHARATH_RAJ_PC" time="0.016">
+  <properties/>
+  <testcase name="testBunkableClassesMath" classname="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" time="0.004"/>
+  <testcase name="testStatusCategories" classname="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" time="0.001"/>
+  <testcase name="testPercentageCalculation" classname="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" time="0.001"/>
+  <testcase name="testSimulateScenarios" classname="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" time="0.0"/>
+  <testcase name="testClassesNeededToReachTargetMath" classname="com.bharath.attendancemanager.calculator.AttendanceCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
